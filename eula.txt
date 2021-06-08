@@ -1,0 +1,15 @@
+以下是SystemFixer的使用说明
+======================
+SystemFixer 4.5 中文正式版（以下简称SF4.5）
+感谢您选择SystemFixer
+一、更新
+关于该软件的更新：
+请在github.com上进行更新，不得使用其他网站
+有关详细信息，请访问:https://github.com/123setup/123setup
+二、使用
+SF4.0仅用于对Windows系统的修复，其他Windows系统无法正常使用，属于正常现象
+SF4.0提供了sfc修复和dism修复，还有主界面关闭组件
+用户在使用过程中，如遇到Bug，请访问:https://space.bilibili.com/1446375525?from=search&seid=11804881131550985132
+
+感谢您使用SF4.5
+
